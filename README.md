@@ -1,2 +1,4 @@
 # CryptRaider
  
+Przed uruchomieniem projektu należy dodać do niego zasoby Medieval Dungeon. 
+https://www.unrealengine.com/marketplace/en-US/product/a5b6a73fea5340bda9b8ac33d877c9e2
