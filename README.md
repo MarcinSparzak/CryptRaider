@@ -1,12 +1,16 @@
 # CryptRaider
- 
-Przed uruchomieniem projektu należy dodać do niego zasoby Medieval Dungeon. 
+
+Project created as a part of the course https://www.udemy.com/course/unrealcourse/
+
+===================================
+
+After creating the project you need to add Medieval Dungeon assets.
 https://www.unrealengine.com/marketplace/en-US/product/a5b6a73fea5340bda9b8ac33d877c9e2
 
 ===================================
 
-Na początku w celi należy podnieść statułetkę (kliknąć i przytrzymać lewy klawisz myszy). Po przeciwnej stronie wejścia jest ściana z wnęką w której należy upuścić statuetke. 
+At the beggining you need to go to a cell and pick up a small statue (click and hold LMB). Place the statue in the alcove opposite the entrance. 
 
-Na końcu korytarza jest krypta. Po zabraniu z podestu złotej rzeźby opuszczana jest krata zamykająca wyjście. Konieczne jest postawienie na podeście innego przedmiotu.
+At the end of the corridor there is a crypt. After taking golden statue from the pedestal gate is closing down preventing player from exiting. You need to place another object on the pedestal for gate to open.
 
 ===================================
