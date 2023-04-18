@@ -82,8 +82,8 @@ bool UGrabber::IsGrabbableInReach(FHitResult& HitResult) const
 	UWorld* World = GetWorld();
 	FVector Start = GetComponentLocation();
 	FVector End = Start + (GetForwardVector() * MaxGrabDistance);
-	DrawDebugLine(World, Start, End, FColor::Red);
-	DrawDebugSphere(World, End, 10, 10, FColor::Blue, false, 5);
+	/*DrawDebugLine(World, Start, End, FColor::Red);
+	DrawDebugSphere(World, End, 10, 10, FColor::Blue, false, 5);*/
 
 	FCollisionShape Sphere = FCollisionShape::MakeSphere(GrabRadius);
 	return World->SweepSingleByChannel(
